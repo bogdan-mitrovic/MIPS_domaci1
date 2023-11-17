@@ -1,5 +1,5 @@
 # MIPS_domaci1
-Bogdan Mitrovic 619/2020
+### Bogdan Mitrovic 619/2020
 U ovom projektnom zadatku je odradjena simulacija paljenja i gasenja led-e.
 Prvo je izabran port na osnovu broja samoglasnika u imenu, 
 posto se ime Bogdan Mitrovic sastoji od 5 samoglasnika a to su o, a, i, o, i,
